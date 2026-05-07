@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankush Ratnani</h1>
-<h3 align="center">AIML Engineering Student</h3>
+<!-- <h3 align="center">AIML Engineering Student</h3> -->
 <h3 align="center">"Intelligence is the ability to adapt to change." — Stephen Hawking</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Machine+Learning+%F0%9F%A7%A0;React+%2B+Javascript+Dev+%F0%9F%92%BB;Building+Smart+Web+Projects+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Machine+Learning+%F0%9F%A7%A0;+Dev+%F0%9F%92%BB;Building+Smart+Web+Projects+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 ---
