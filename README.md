@@ -19,10 +19,7 @@
 ### 🛠️ Tech Stack
 
 #### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-
 
 #### ⚙️ ML Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
